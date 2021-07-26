@@ -1,2 +1,2 @@
-# bigcrunch-frontend-test-project
+# Bigcrunch Frontend Test Project
 Bigcrunch için yapılmış tek sayfalık bir frontend test projesidir.
